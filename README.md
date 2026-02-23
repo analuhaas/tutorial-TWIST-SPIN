@@ -18,8 +18,8 @@ Updates in communications:
 - Contains basic communication example explaning all communications types usage.
 
 Updates in MMC:
-- Last update 22/08/2025: Updated explanation about how to download the tutorial codes.
-- Tutorials up until now: Blinky MMC arm, CVB algorithm and single module test
+- Last update 23/02/2026: Updated explanation about how to download the tutorial codes.
+- Tutorials up until now: Blinky MMC arm, CVB algorithm, single module test and stack test
 
 Updates in Hardware:
 - Shows some details from Twist board KICAD up to power and driver blocks and PWM.
